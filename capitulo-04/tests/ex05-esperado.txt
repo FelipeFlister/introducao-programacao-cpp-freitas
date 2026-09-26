@@ -1,0 +1,6 @@
+O salario final do empregado e R$580.00
+O salario final do empregado e R$1746.55
+O salario final do empregado e R$2762.50
+O salario final do empregado e R$2539.84
+O salario final do empregado e R$3108.92
+Erro: O salarioIR deu um valor menor que 0, ou problemas com tipagem, tente novamente.
